@@ -24,9 +24,9 @@ Para que o QRCode seja gerado corretamente siga os seguintes padrões
 
 *** Para geração do QRCode Pix você pode fazer de 2 Formas 
 
---- Valor definido 
+--- Valor definido (Acima de Zero)
 
---- Valor a Definir
+--- Valor a Definir (Colocar valor de Zero que se torna editavel ao pagador)
 
 
 
